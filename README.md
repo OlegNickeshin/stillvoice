@@ -4,6 +4,11 @@ Technical and philosophical documentation of StillVoice — a restrained AI syst
 
 ---
 
+⚠️ This repository contains documentation and architectural philosophy only.  
+It does NOT include production source code.
+
+---
+
 ## What is StillVoice?
 
 StillVoice is an experimental web-based conversational system created not for engagement, automation, or emotional simulation — but for presence.
