@@ -36,15 +36,19 @@ StillVoice refuses common AI mechanics:
 
 This repository serves as a structural map of the system.
 
-Planned documentation includes:
+This repository contains:
 /docs
-architecture.md — High-level system design
-ethics.md — Ethical principles and constraints
-design-principles.md — Interface philosophy
-scalability.md — Load and sustainability strategy
-limitations.md — Intentional boundaries
+- architecture.md       — High-level system design and logical flow  
+- ethics.md             — Ethical principles and moral boundaries  
+- scalability.md        — Load handling and sustainability strategy  
+- diagrams.md           — Structural and data flow representations  
+- design-principles.md  — Interface philosophy and contemplative UX logic  
+- limitations.md        — Intentional constraints and ethical boundaries
 
-/screenshots — Visual interface references
+/screenshots
+- interface-home.png
+- scripture-panel.png
+- dialog-view.png
 
 ---
 
@@ -60,18 +64,12 @@ limitations.md — Intentional boundaries
 
 For security, integrity, and respect for users, the following are not part of this repository:
 
-/docs
-- architecture.md       — High-level system design and logical flow  
-- ethics.md             — Ethical principles and moral boundaries  
-- scalability.md        — Load handling and sustainability strategy  
-- diagrams.md           — Structural and data flow representations  
-- design-principles.md  — Interface philosophy and contemplative UX logic  
-- limitations.md        — Intentional constraints and ethical boundaries
-
-/screenshots
-- interface-home.png
-- scripture-panel.png
-- dialog-view.png
+- Application source code  
+- Server configuration  
+- Deployment logic  
+- API keys or credentials  
+- User data or logs  
+- Internal infrastructure topology
 
 ---
 
@@ -109,3 +107,8 @@ The architecture will be refined as the system grows, always prioritising restra
 If you approach this project, do so gently.  
 This is not a system that performs.  
 It is a system that remains.
+
+---
+
+This is not a product.
+It is a position.
